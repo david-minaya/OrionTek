@@ -1,0 +1,19 @@
+.content {
+  max-width: 800px;
+  margin: 40px auto;
+  padding: 16px;
+}
+
+.toolbar {
+  display: flex;
+  justify-content: space-between;
+}
+
+.title {
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.customers {
+  margin-top: 32px;
+}
